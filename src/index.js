@@ -16,3 +16,5 @@ app.use('/subscriptions', subscription);
 app.listen(PORT, () => {
   console.log(`server started on ${PORT} port`);
 });
+
+// добавил комментарий
