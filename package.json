@@ -1,0 +1,19 @@
+{
+  "name": "testhm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.13.0",
+    "nodemon": "^3.1.7"
+  }
+}
